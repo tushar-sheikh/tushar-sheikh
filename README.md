@@ -1,8 +1,7 @@
 # Hi, I'm Tusher Imran 👋
 
 ## About Me
-I'm a Fresher WordPress Developer passionate about building dynamic websites using WordPress, Elementor, JetEngine, and Crocoblock.
-
+I'm a WordPress Developer specializing in Elementor Pro, JetEngine, and Crocoblock. I enjoy building dynamic, responsive, and user-friendly websites with custom post types, taxonomies, and advanced filtering.
 ## Skills
 - WordPress
 - Elementor
