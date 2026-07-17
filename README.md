@@ -1,5 +1,5 @@
+![Uploading ChatGPT Image Jul 17, 2026, 08_10_31 PM.png…]()
 
-<img width="1983" height="793" alt="ChatGPT Image Jul 17, 2026, 06_28_59 PM" src="https://github.com/user-attachments/assets/583d5d34-43ee-44a8-a559-e62978bc014a" />
 
 # Hi, I'm Tusher Imran 👋
 ## About Me
