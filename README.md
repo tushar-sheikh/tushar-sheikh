@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="[banner.png](https://chatgpt.com/backend-api/estuary/content?id=file_0000000044f471f882531631a7be2e40&ts=495636&p=fs&cid=1&sig=2b26fe9c5c37181913b8856d5efea361509d502fe9275ae2fa6190a5d9267cf7&v=0)" width="100%" alt="WordPress Developer Banner">
+</p>
 # Hi, I'm Tusher Imran 👋
 ## About Me
 I'm a WordPress Developer specializing in Elementor Pro, JetEngine, and Crocoblock. I enjoy building dynamic, responsive, and user-friendly websites with custom post types, taxonomies, and advanced filtering.
