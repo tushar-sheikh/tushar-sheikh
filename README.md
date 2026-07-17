@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Tusher Imran 👋
 
-<!--
-**tushar-sheikh/tushar-sheikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a Fresher WordPress Developer passionate about building dynamic websites using WordPress, Elementor, JetEngine, and Crocoblock.
 
-Here are some ideas to get you started:
+## Skills
+- WordPress
+- Elementor
+- JetEngine
+- Crocoblock
+- HTML & CSS
+- Custom Post Types (CPT)
+- Custom Fields
+- Taxonomies
+- Dynamic Listings
+- JetSmartFilters
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Advanced JetEngine
+- WordPress Best Practices
+
+## Projects
+
+### 🦁 Wildlife Photography
+A dynamic wildlife photography website built with WordPress, Elementor, JetEngine, and Crocoblock. Features Custom Post Types (CPT), Taxonomies, Meta Fields, Dynamic Listings, and JetSmartFilters.
+
+### 🍲 Food Recipe Portal
+A dynamic recipe website built with WordPress, Elementor, JetEngine, and Crocoblock. Includes Custom Post Types, Taxonomies, Custom Fields, Dynamic Content, and Advanced Filtering.
+
+### 💼 Axpose Business Template
+A responsive business website built using WordPress, Elementor, and Elementor Pro with a modern and professional design.
+
+### 👨‍💻 Personal Portfolio
+A personal portfolio website showcasing my WordPress development skills and projects.
+
+## Connect With Me
+- LinkedIn: *(Add your LinkedIn profile link)*
+- Portfolio: *(Add your portfolio website link)*
+- Email: *(Add your email)*
