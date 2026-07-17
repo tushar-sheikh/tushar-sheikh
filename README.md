@@ -29,7 +29,7 @@ https://dev-wildlife1.pantheonsite.io/
 A dynamic recipe website built with WordPress, Elementor, JetEngine, and Crocoblock. Includes Custom Post Types, Taxonomies, Custom Fields, Dynamic Content, and Advanced Filtering.
 https://dev-food2.pantheonsite.io/
 
-### 💼 Axpose Business Template
+### 💼 Axpos Business Template
 A responsive business website built using WordPress, Elementor, and Elementor Pro with a modern and professional design.
 https://dev-axpos123.pantheonsite.io
 
