@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner.png" width="100%" alt="WordPress Developer Banner">
-</p>
+
 # Hi, I'm Tusher Imran 👋
 ## About Me
 I'm a WordPress Developer specializing in Elementor Pro, JetEngine, and Crocoblock. I enjoy building dynamic, responsive, and user-friendly websites with custom post types, taxonomies, and advanced filtering.
