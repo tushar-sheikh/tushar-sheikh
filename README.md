@@ -34,6 +34,6 @@ A responsive business website built using WordPress, Elementor, and Elementor Pr
 A personal portfolio website showcasing my WordPress development skills and projects.
 
 ## Connect With Me
-- LinkedIn: *(Add your LinkedIn profile link)*
-- Portfolio: *(Add your portfolio website link)*
-- Email: *(Add your email)*
+- LinkedIn: *(https://www.linkedin.com/in/tusher-imran-344218367/)*
+- Portfolio: *(https://dev-portfolio4w.pantheonsite.io/)*
+- Email: *(tusharti7364875@gmail.com)*
