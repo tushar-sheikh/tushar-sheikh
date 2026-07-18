@@ -1,7 +1,7 @@
 <img width="1717" height="916" alt="ChatGPT Image Jul 17, 2026, 08_10_31 PM" src="https://github.com/user-attachments/assets/a3f0cd9a-0762-4708-ae4f-fbc8435d4014" />
 
 
-# Hi, I'm Tusher Imran 👋
+# Hi, I'm Tusher Sheikh  👋
 ## About Me
 I'm a WordPress Developer specializing in Elementor Pro, JetEngine, and Crocoblock. I enjoy building dynamic, responsive, and user-friendly websites with custom post types, taxonomies, and advanced filtering.
 ## Skills
